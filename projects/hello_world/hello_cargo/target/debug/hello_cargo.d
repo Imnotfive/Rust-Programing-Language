@@ -1,0 +1,1 @@
+/Users/andrewwang/Imnotfive/Rust-Programing-Language/projects/hello_world/hello_cargo/target/debug/hello_cargo: /Users/andrewwang/Imnotfive/Rust-Programing-Language/projects/hello_world/hello_cargo/src/main.rs

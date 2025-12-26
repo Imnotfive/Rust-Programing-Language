@@ -1,0 +1,6 @@
+[package]               # Package section
+name = "hello_cargo"    # Name of the package
+version = "0.1.0"       # Version of the package
+edition = "2024"        # Rust edition to use
+
+[dependencies]          # Dependencies section
