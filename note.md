@@ -20,4 +20,7 @@ Cargo 是 Rust 的构建系统和包管理器
 - cargo run(构建+运行)
 - cargo check(确保编译)
 
+## 编写一个猜数字程序
 
+- crate是代码包
+- cargo doc --open    命令来构建所有本地依赖提供的文档并在浏览器中打开
